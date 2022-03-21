@@ -1,8 +1,8 @@
 # EasyBanking-FrontEndMentor
-code with HTML,CSS,Sass,Bootstrap
 
 
-Hello everyone, I've just completed the "Easybank landing page" challenge. 
+
+Hello everyone, I've just completed the "Easybank landing page" challenge. This website is code with HTML,CSS,Sass,and Bootstrap.
 
 ## **View project**
 
