@@ -1,4 +1,8 @@
-@@ -6,130 +6,134 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   font-family: "Public Sans", sans-serif;
 }
 
@@ -64,7 +68,7 @@ p {
 
 @media (max-width: 576px) {
   .right-banner {
-    background-image: url("../img/bg-intro-mobile.svg");
+    background-image: url("../images/bg-intro-mobile.svg");
     min-height: 35vh;
     background-size: cover;
     background-position: center;
@@ -132,4 +136,3 @@ a {
 a:hover {
   color: #31d35c;
 }
-/*# sourceMappingURL=style.css.map */
